@@ -9,6 +9,7 @@ const parrafo = document.getElementById("warnings");
 //let funcionIngresar = addEventListener('keypress', teclaEnter); 
 //botonVerificador.addEventListener('click', verificar);
 
+
 form.addEventListener("submit", e=>{
     e.preventDefault()
     let warnings = ""
